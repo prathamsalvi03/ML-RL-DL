@@ -1,6 +1,6 @@
 safety_robot_arm/
 ├── docker/
-│   ├── mujoco.Dockerfile
+   ├── mujoco.Dockerfile
 │   ├── ros2.Dockerfile
 │   ├── ml.Dockerfile
 │   ├── docker-compose.yml
